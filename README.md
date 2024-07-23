@@ -9,6 +9,6 @@ This analysis seeks to train a neural network model to be able to predict if an 
 - <u>deepLearning.ipynb</u>: A jupyter notebook which loads in the data and trains a neural network
 
 ## Outputs
-- <u>Deep Learning Challenge Report.docx</u>: A report explaining the findings of this analysis
+- <u><b>Deep Learning Challenge Report.docx</u></b>: A report explaining the findings of this analysis
 - <u>AlphabetSoupCharity.h5</u>: The first model trained
 - <u>AlphabetSoupCharity_Optimisation.h5</u>: Themost optimised model
